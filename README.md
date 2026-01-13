@@ -59,7 +59,7 @@ VENOMOUS is a production-grade anonymity system that provides multiple layers of
 ### Quick Installation
 ```bash
 # Clone repository
-git clone https://secure.gov-repo.example.com/venomous.git
+git clone https://github.com/9665830314/VENOMOUS.git
 cd venomous
 
 # Run installation script
