@@ -1,5 +1,8 @@
-
 # VENOMOUS - Advanced Anonymous Communication System
+
+![Security Level](https://img.shields.io/badge/Security-Level%20Black-red)
+![Platform](https://img.shields.io/badge/Platform-Kali%20Linux-purple)
+![License](https://img.shields.io/badge/License-GOV%20Restricted-blue)
 
 ## ⚠️ WARNING
 **VENOMOUS is designed for authorized government and security agency use only. Unauthorized use is strictly prohibited and may violate national and international laws.**
